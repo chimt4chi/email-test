@@ -1,0 +1,9 @@
+[2024-07-26T19:43:28.397Z] : Processed page: http://growthsay.com in 0.026083333333333333 minutes
+[2024-07-26T19:43:29.086Z] : Processed page: https://growthsay.com/ in 0.01005 minutes
+[2024-07-26T19:43:29.664Z] : Processed page: https://growthsay.com/#services in 0.008566666666666667 minutes
+[2024-07-26T19:43:30.348Z] : Processed page: http://growthsay.com/#googleranking in 0.010866666666666667 minutes
+[2024-07-26T19:43:30.922Z] : Processed page: http://growthsay.com/# in 0.008983333333333333 minutes
+[2024-07-26T19:43:32.125Z] : Processed page: https://mailverifier.netlify.app/ in 0.019666666666666666 minutes
+[2024-07-26T19:43:35.049Z] : Processed page: https://growthsay.com/blog/ in 0.0484 minutes
+[2024-07-26T19:43:36.452Z] : Processed page: https://growthsay.com/pricing/ in 0.023 minutes
+[2024-07-26T19:43:38.297Z] : Processed page: https://growthsay.com/contact-us in 0.030316666666666665 minutes
