@@ -16,7 +16,7 @@ module.exports = {
       path: "/home/ubuntu/email-test", // Specifying a more precise path
       "pre-deploy-local": "",
       "post-deploy":
-        "source ~/.nvm/nvm.sh && nvm use 16.17.0 && npm install && npm run build && pm2 reload ecosystem.config.js --env production",
+        "npm install && npm run build && pm2 reload ecosystem.config.js --env production",
       "pre-setup": "",
       "ssh-options": "ForwardAgent=yes",
     },
